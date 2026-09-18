@@ -1,0 +1,9 @@
+{
+  "start_urls": [
+    {
+      "url": "https://es.wallapop.com/search?category_id=100&max_sale_price=5000&order_by=newest"
+    }
+  ],
+  "max_items": 200,
+  "country": "Spain"
+}
